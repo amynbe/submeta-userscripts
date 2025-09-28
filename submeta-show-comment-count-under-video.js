@@ -1,13 +1,13 @@
 // ==UserScript==
-// @name         Show comment number on Discuss button
+// @name         Tested test
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  You no longer need to click to know whether a video on submeta.io has been commented
+// @description  Display previous searches on submeta.io in a dropdown with keyboard navigation and delete buttons
 // @match        https://submeta.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=submeta.io
 // @grant        none
-// @downloadURL  https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-show-comment-count-under-video.js
-// @updateURL    https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-show-comment-count-under-video.js
+// @downloadURL  https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-search-terms-save.user.js
+// @updateURL    https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-search-terms-save.user.js
 // @license      MIT
 // ==/UserScript==
 
