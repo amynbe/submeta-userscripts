@@ -2,7 +2,7 @@
 // @name         Show comment number on Discuss button
 // @namespace    http://tampermonkey.net/
 // @version      1.0
-// @description  You no longer need to click to know whether a video on submeta.io has been commented, as the comment count is displayed right on the Discuss button
+// @description  You no longer need to click to know whether a video on submeta.io has been commented
 // @match        https://submeta.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=submeta.io
 // @grant        none
