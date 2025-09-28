@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Saved search terms dropdown on submeta.io
+// @author       Amyn Bennamane
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Display previous searches on submeta.io in a dropdown with keyboard navigation and delete buttons

@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Accelerate video on long press
+// @author       Amyn Bennamane
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Accelerate video on long press on submeta.io videos, similar to youtube

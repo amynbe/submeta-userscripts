@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Show comment number on Discuss button
+// @author       Amyn Bennamane
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  You no longer need to click to know whether a video on submeta.io has been commented, as the comment count is displayed right on the Discuss button
