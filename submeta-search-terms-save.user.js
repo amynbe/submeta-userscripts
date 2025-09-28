@@ -8,6 +8,7 @@
 // @grant        none
 // @downloadURL  https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-search-terms-save.user.js
 // @updateURL    https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-search-terms-save.user.js
+// @license      MIT
 // ==/UserScript==
 
 (function () {

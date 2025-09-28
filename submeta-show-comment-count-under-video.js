@@ -8,6 +8,7 @@
 // @grant        none
 // @downloadURL  https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-show-comment-count-under-video.js
 // @updateURL    https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-show-comment-count-under-video.js
+// @license      MIT
 // ==/UserScript==
 
 (function () {
