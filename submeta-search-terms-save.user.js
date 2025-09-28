@@ -6,6 +6,8 @@
 // @match        https://submeta.io/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=submeta.io
 // @grant        none
+// @downloadURL  https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-search-terms-save.user.js
+// @updateURL    https://github.com/amynbe/submeta-userscripts/raw/refs/heads/main/submeta-search-terms-save.user.js
 // ==/UserScript==
 
 (function () {
